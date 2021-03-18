@@ -27,4 +27,6 @@ jika Anda mengonversi aplikasi Android saat ini untuk menggunakan fragmen, Anda 
     Menampilkan hierarki objek Preference sebagai daftar. Proses ini digunakan untuk membuat layar setelan untuk aplikasi Anda. <br>
     
    ### Selengkapnya cek modul
+   ## Result
+   ![Alt Text](https://github.com/adam033/FragmentViewPager/blob/main/Screenshot%20(637).png)
    
