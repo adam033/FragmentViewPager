@@ -29,4 +29,12 @@ jika Anda mengonversi aplikasi Android saat ini untuk menggunakan fragmen, Anda 
    ### Selengkapnya cek modul
    ## Result
    ![Alt Text](https://github.com/adam033/FragmentViewPager/blob/main/Screenshot%20(637).png)
+   ![Alt Text](https://github.com/adam033/FragmentViewPager/blob/main/Screenshot%20(638).png)
+   ![Alt Text](https://github.com/adam033/FragmentViewPager/blob/main/Screenshot%20(639).png)
+   ![Alt Text](https://github.com/adam033/FragmentViewPager/blob/main/Screenshot%20(640).png)
+   ![Alt Text](https://github.com/adam033/FragmentViewPager/blob/main/Screenshot%20(641).png)
+   ![Alt Text](https://github.com/adam033/FragmentViewPager/blob/main/Screenshot%20(642).png)
+   ![Alt Text](https://github.com/adam033/FragmentViewPager/blob/main/Screenshot%20(643).png)
+   
+   ### Terima kasih , semoga bermanfaat
    
